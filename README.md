@@ -23,21 +23,21 @@ A hash from each step is generated, so, a new AJAX request only is made to a alr
 	```
 
 3. Call the plugin:
-	```html
-		<form id="my-form">
-			<fieldset>
-				<input type="text" name="name" class="required"/>
-				<a href="javascript:void(0)" class="custom-forward-selector">forward</a>
-			</fieldset>
-			<!-- jQuery Ajax Wizard will place the returned HTML from AJAX in further fieldsteps -->
-		</form>
-	```
+```html
+<form id="my-form">
+  <fieldset>
+    <input type="text" name="name" class="required"/>
+    <a href="javascript:void(0)" class="custom-forward-selector">forward</a>
+  </fieldset>
+  <!-- jQuery Ajax Wizard will place the returned HTML from AJAX in further fieldsteps -->
+</form>
+```
 
-	```javascript
-	$("#my-form").ajaxWizard({
-		// options and callbacks
-	});
-	```
+```javascript
+$("#my-form").ajaxWizard({
+  // options and callbacks
+});
+```
 
 ## Options and Callbacks
 
