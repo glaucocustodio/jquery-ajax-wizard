@@ -1,0 +1,21 @@
+{
+	"name": "jquery-ajaxWizard",
+	"version": "0.0.1",
+	"homepage": "https://github.com/glaucocustodio/jquery-ajax-wizard",
+	"authors": [
+		"Glauco Custódio"
+	],
+	"description": "A form wizard plugin for when next step is gotten via AJAX based on user's input.",
+	"main": "src/jquery.ajaxWizard.js",
+	"keywords": [
+		"jquery",
+		"ajax",
+		"wizard",
+		"form",
+		"form wizard"
+	],
+	"license": "MIT",
+	"ignore": [
+    ".jshintrc",
+  ]
+}

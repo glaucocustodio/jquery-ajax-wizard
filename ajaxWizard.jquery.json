@@ -1,0 +1,38 @@
+{
+	"name": "ajaxWizard",
+	"title": "jQuery Ajax Wizard",
+	"description": "A form wizard plugin for when next step is gotten via AJAX based on user's input.",
+	"keywords": [
+		"jquery",
+		"form wizard",
+		"wizard",
+		"form",
+		"ajax",
+	],
+	"version": "0.0.1",
+	"author": {
+		"name": "Glauco Custódio",
+		"email": "glauco.custodio@gmail.com",
+		"url": "https://github.com/glaucocustodio"
+	},
+	"maintainers": [
+		{
+			"name": "Glauco Custódio",
+			"email": "glauco.custodio@gmail.com",
+			"url": "https://github.com/glaucocustodio/jquery-ajax-wizard"
+		}
+	],
+	"licenses": [
+		{
+			"type": "MIT",
+			"url": "http://mit-license.org/"
+		}
+	],
+	"bugs": "https://github.com/glaucocustodio/jquery-ajax-wizard/issues",
+	"homepage": "https://github.com/glaucocustodio/jquery-ajax-wizard",
+	"docs": "https://github.com/glaucocustodio/jquery-ajax-wizard#readme",
+	"download": "https://github.com/glaucocustodio/jquery-ajax-wizard/archive/master.zip",
+	"dependencies": {
+		"jquery": ">=1.4"
+	}
+}
