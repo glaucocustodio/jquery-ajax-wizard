@@ -1,5 +1,5 @@
 /*
- *  jQuery Ajax Wizard - v0.0.1
+ *  jQuery Ajax Wizard - v1.0.0
  *
  *  Made by Glauco Custódio
  *  Under MIT License
