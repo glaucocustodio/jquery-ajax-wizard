@@ -11,16 +11,14 @@ A hash from each step is generated, so, a new AJAX request only is made to a alr
 ## Usage
 
 1. Include jQuery:
-
-	```html
-	<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
-	```
+```html
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
+```
 
 2. Include plugin's code:
-
-	```html
-	<script src="dist/jquery.ajaxWizard.min.js"></script>
-	```
+```html
+<script src="dist/jquery.ajaxWizard.min.js"></script>
+```
 
 3. Call the plugin:
 ```html
