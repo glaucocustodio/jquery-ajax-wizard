@@ -45,10 +45,10 @@ Here's a list of available options and callbacks.
 
 ```javascript
 $("#my-form").ajaxWizard({
-	contentUrl: '/my/api/url',
-	beforeForward: function(form){
-		// validates form with jQuery Validation plugin before forward
-		return $(form).valid();
+  contentUrl: '/my/api/url',
+  beforeForward: function(form){
+    // validates form with jQuery Validation plugin before forward
+    return $(form).valid();
   },
   controlSelectors: {
     forward:  '.custom-forward-selector',
