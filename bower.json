@@ -5,7 +5,7 @@
   "authors":[
     "Glauco Custodio"
   ],
-  "description":"A form wizard plugin for when next step is gotten via AJAX based on user's input.",
+  "description":"A form wizard plugin for when next step is gotten via AJAX based on users input.",
   "main":"src/jquery.ajaxWizard.js",
   "keywords":[
     "jquery",
