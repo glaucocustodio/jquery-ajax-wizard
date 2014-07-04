@@ -16,6 +16,6 @@
 	],
 	"license": "MIT",
 	"ignore": [
-    ".jshintrc",
+    ".jshintrc"
   ]
 }
