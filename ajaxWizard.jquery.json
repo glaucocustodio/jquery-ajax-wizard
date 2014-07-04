@@ -4,10 +4,9 @@
 	"description": "A form wizard plugin for when next step is gotten via AJAX based on user's input.",
 	"keywords": [
 		"jquery",
-		"form wizard",
 		"wizard",
 		"form",
-		"ajax",
+		"ajax"
 	],
 	"version": "1.0.0",
 	"author": {
