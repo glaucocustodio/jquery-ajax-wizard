@@ -3,7 +3,7 @@
 	"version": "1.0.0",
 	"homepage": "https://github.com/glaucocustodio/jquery-ajax-wizard",
 	"authors": [
-		"Glauco Custódio"
+		"Glauco Custodio"
 	],
 	"description": "A form wizard plugin for when next step is gotten via AJAX based on user's input.",
 	"main": "src/jquery.ajaxWizard.js",
