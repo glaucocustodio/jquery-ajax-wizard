@@ -1,5 +1,5 @@
 /*
- *  jQuery Ajax Wizard - v1.0.1
+ *  jQuery Ajax Wizard - v1.0.2
  *
  *  Made by Glauco Custódio
  *  Under MIT License
@@ -74,7 +74,7 @@
         },
         ajaxRequest: function(sender){
           var self = this;
-          var hash = this.currentStep().serialize();
+          var hash = this.currentStep().find('input, select, textarea').serialize()
 
           $.ajax({
             url: self.getContentUrl(),
