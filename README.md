@@ -1,6 +1,6 @@
 # jQuery Ajax Wizard
 
-### A form wizard plugin for when next step is gotten via AJAX based on user's input
+A form wizard plugin for when next step is gotten via AJAX based on user's input.
 
 ## When to use
 
